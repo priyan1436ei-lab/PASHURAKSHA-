@@ -1,0 +1,6 @@
+{
+  "name": "PashuRaksha AI – Smart Livestock Disease Management & Early Warning System",
+  "description": "Smart India Hackathon 2026 (PS 26128): AI-powered early livestock disease-risk screening, automated veterinary escalation, offline-first reporting, and community outbreak early warning.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
